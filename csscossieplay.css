@@ -1,0 +1,72 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*ID Selector*/
+
+#Banner{
+	text-align:center;
+	background-color:#32DBC2;
+	font-size:45px;
+	font-family: Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana," sans-serif";
+	margin: -15px;	
+
+}
+
+#Navigation_bar{
+	text-align:center;
+	background-color:#38B986;
+	font-size:25px;
+	font-family: Consolas, Andale Mono, Lucida Console, Lucida Sans Typewriter, Monaco, Courier New, monospace;
+	margin:-15px;
+	
+}
+
+#Main_content{
+	text-align: justify;
+	font-family: Constantia, Lucida Bright, DejaVu Serif, Georgia, serif;
+	font-size: 18px;
+	background-color: #E3BB00;
+	margin-left: -10px;
+	margin-bottom:-10px;
+	margin-right:-10px;
+	margin-top:-15px;
+	padding-left:4px;
+	padding-bottom:15px;
+	padding-right:4px;
+}
+
+#Footer{
+	text-align: center;
+	font-family: Constantia, Lucida Bright, DejaVu Serif, Georgia, serif;
+	font-size: 20px;
+	background-color: #000000;
+	margin:-10px;
+	padding-top:0.02px;
+	padding-bottom:0.5px;
+}
+/*tag selector*/
+
+body{
+	background-image: url(../images/we-re-rabbits-1439192-1279x850.jpg);
+}
+
+/*class selector*/
+
+.center{
+	text-align: center;
+}
+.colorwhite{
+	color:#FFFDFD;
+}
+
+.textsize22px{
+	font-size: 22px;
+}
+
+.floatimage{
+	float:right
+}
+.textsize35px{
+	font-size: 35px;
+}
+
